@@ -1,4 +1,5 @@
-require 'money/bank/base'
+require 'money'
+require 'active_support'
 require 'active_support/core_ext'
 
 class Money
